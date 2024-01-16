@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723796948547",
+    "project_id": "eat-wise-bae06",
+    "storage_bucket": "eat-wise-bae06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723796948547:android:6037d5cc4033f9abaf06f6",
+        "android_client_info": {
+          "package_name": "com.example.eatwise_calorie_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4S8KY3qUpPs-QwMN_7Ep9FW7uni77rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
